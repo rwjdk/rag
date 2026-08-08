@@ -1,2 +1,3 @@
-# rag-youtube
-RAG System to Vectorize My YouTube Channel
+# rag
+
+RAG REpo for vectorization of various Data-sources
