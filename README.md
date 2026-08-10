@@ -1,3 +1,3 @@
 # rag
 
-RAG REpo for vectorization of various Data-sources
+RAG Repo for vectorization of various Data-sources
