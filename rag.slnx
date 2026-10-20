@@ -1,0 +1,10 @@
+<Solution>
+  <Folder Name="/Datasources/">
+    <Project Path="src/Datasource.Shared/Datasource.Shared.csproj" Id="b5ee3d91-6086-42bb-a791-95cf40ea19c0" />
+    <Project Path="src/Datasource.YouTubeChannel/Datasource.YouTubeChannel.csproj" />
+  </Folder>
+  <Project Path="src/Backend/Backend.csproj" />
+  <Project Path="src/ConfigurationAndSecrets/ConfigurationAndSecrets.csproj" Id="362fb5e9-e789-403d-92d9-d14020e084e8" />
+  <Project Path="src/Tests/Tests.csproj" Id="67c5d35e-a6cf-4b33-b5ac-702ca1850ac5" />
+  <Project Path="src/VectorStorage/VectorStorage.csproj" />
+</Solution>
